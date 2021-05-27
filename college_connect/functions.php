@@ -6,8 +6,6 @@
     $function = isset($_GET['function']) ? $_GET['function'] : '';
     $session_id = isset($_SESSION['id']) ? $_SESSION['id'] : '';
 
-    // $link = mysqli_connect("localhost", "root", "", "CC");
-
     $link = mysqli_connect("localhost", "root", "", "cc");
 
     if (mysqli_connect_errno()) {

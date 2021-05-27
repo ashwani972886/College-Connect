@@ -28,13 +28,6 @@
                       <div class="tab-content">
                         <!-- Start of Discussions -->
                         <div id="discussions" class="tab-pane  active ">
-                          <!-- <div class="search">
-                            <form class="form-inline position-relative">
-                              <input type="search" class="form-control" id="conversations" placeholder="Search for conversations...">
-                              <button type="button" class="btn btn-link loop"><i class="material-icons">search</i></button>
-                            </form>
-                            
-                          </div>						 -->
                           <div class="discussions">
                             <h1 style="font-size: 30px; background-color: greenyellow; padding: 40px 0px 25px 20px; margin-top: 0px; " >CHATS</h1>
                             <button class="btn create" data-toggle="modal" data-target="#startnewchat"><i class="material-icons">create</i></button>
